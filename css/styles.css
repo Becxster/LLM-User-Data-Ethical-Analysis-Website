@@ -306,6 +306,10 @@ body {
     color: #f9fafb;
 }
 
+.parallax-solutions {
+    border: 3px solid #ed8814;
+}
+
 .parallax-impact {
     background-image: url("../img/impact-placeholder.jpg"); /* replace */
 }
